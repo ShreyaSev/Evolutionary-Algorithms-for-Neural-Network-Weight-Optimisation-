@@ -1,5 +1,9 @@
-# Evolutionary-Algorithms-for-Neural-Network-Weight-Optimisation-
-This repo contains the code for neural network weight optimisation using 4 evolutionary algorithms.
+# Evolutionary Algorithms for Neural Network-Weight Optimisation 
+This repo contains the code for neural network weight optimisation using 4 evolutionary algorithms, namely:
+- Genetic Algorithm
+- Cultural Algorithm
+- Ant Colony Optimisation
+- Particle Swarm Optimisation
 
 
 ### Params for Ant Colony Optimization
