@@ -1,9 +1,19 @@
-# Evolutionary Algorithms for Neural Network-Weight Optimisation 
+# Evolutionary Algorithms for Neural Network Weight Optimisation 
 This repo contains the code for neural network weight optimisation using 4 evolutionary algorithms, namely:
 - Genetic Algorithm
 - Cultural Algorithm
 - Ant Colony Optimisation
 - Particle Swarm Optimisation
+
+## ANN Architecture
+
+| Layer | Number of Neurons | Activation Function |
+| :---: | :----: | :----: |
+| Hidden | 12 | ReLU |
+| Hidden | 8 | ReLU |
+| Hidden | 16 | ReLU |
+| Hidden | 8 | ReLU |
+| Output | 2 | Softmax | 
 
 
 ### Params for Ant Colony Optimization
@@ -30,7 +40,7 @@ This repo contains the code for neural network weight optimisation using 4 evolu
 
 
 
-# References:
+## References:
 
 ### Genetic Algorithm
 Montana, David J., and Lawrence Davis. "Training feedforward neural networks using genetic algorithms." IJCAI. Vol. 89. 1989.
