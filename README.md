@@ -1,6 +1,33 @@
 # Evolutionary-Algorithms-for-Neural-Network-Weight-Optimisation-
 This repo contains the code for neural network weight optimisation using 4 evolutionary algorithms.
 
+
+#### Params for Ant Colony Optimization
+
+| Generations | Ants | Decay Constant | Training Accuracy | Testing Accuracy |
+|:-----: | :-----: | :------: | :------: | :----: |
+|10| 5 | 0.1 |93.66%|94.37%|
+
+#### Params for Cultural Algorithm
+| Generations | Population Size | Training Accuracy | Testing Accuracy |
+|:-----: | :-----: | :------: | :------: | 
+|3|10|93%|94%|
+
+### Params for Genetic Algorithm
+| Generations | Population Size | Parent Selection | Number of Parents |Training Accuracy | Testing Accuracy |
+|:-----: | :-----: | :------: | :------: | :----: | :----:|
+| 20 | 5 | Roulette Wheel | 2 | 93.66%  | 94.37% |
+
+### Params for Particle Swarm Optimisation
+| Generations | Population Size | c1| c2 | Inertial Weight |Fitness of Best Particle | Testing Accuracy |
+|:-----: | :-----: | :------: | :------: | :----: | :----:|:----:|
+| 10 | 10 | 2 | 2 | 0.8 | 4.234 | 94% |
+
+## Parameters for Intelligent-Neural-Network-Optimization-with-Evolutionary-Algorithms
+
+##### Params for Ant Colony Optimization
+
+
 # References:
 
 ## Genetic Algorithm
