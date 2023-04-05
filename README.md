@@ -2,13 +2,13 @@
 This repo contains the code for neural network weight optimisation using 4 evolutionary algorithms.
 
 
-#### Params for Ant Colony Optimization
+### Params for Ant Colony Optimization
 
 | Generations | Ants | Decay Constant | Training Accuracy | Testing Accuracy |
 |:-----: | :-----: | :------: | :------: | :----: |
 |10| 5 | 0.1 |93.66%|94.37%|
 
-#### Params for Cultural Algorithm
+### Params for Cultural Algorithm
 | Generations | Population Size | Training Accuracy | Testing Accuracy |
 |:-----: | :-----: | :------: | :------: | 
 |3|10|93%|94%|
